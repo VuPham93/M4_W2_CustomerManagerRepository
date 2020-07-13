@@ -11,7 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
 import service.customer.ICustomerService;
 import service.province.IProvinceService;
 
-import java.util.List;
 import java.util.Optional;
 
 @Controller
